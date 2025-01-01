@@ -15,8 +15,8 @@ Este desarrollo cumple con los requisitos del Challenge 2 de Alura, enfocado en 
 - **Consumo de la API GutenDex:**  
   Conexión a la API para extraer y procesar datos sobre libros.  
 
-- **Operaciones CRUD:**  
-  Gestión completa (Crear, Leer, Actualizar y Eliminar) de registros de libros en la base de datos.  
+- **Operaciones de consulta :**  
+  Gestión consultar registros de libros en la base de datos.  
 
 - **Manejo y transformación de datos:**  
   Conversión de datos desde JSON a objetos Java y su almacenamiento en formato requerido.  
